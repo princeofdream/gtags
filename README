@@ -16,6 +16,13 @@ ___________________________________
 
 		----------------------------------
 
+* Info
+	The source branches from GNU global.
+	The purpose is to support separate projects generates tags into one
+	projcet.
+
+		----------------------------------
+
 GNU GLOBAL is a source code tagging system that works the same way across diverse
 environments. It supports C, C++, Yacc, Java, PHP4 and assembly source code.
 
